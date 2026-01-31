@@ -50,7 +50,7 @@ I specialize in full-stack mobile application development, but my interests and 
 
 ## 🔭 Current Focus
 
-At Tandeem, I'm leading the development of sophisticated mobile solutions including the OptiFood kiosk system, which involves fascinating challenges like implementing dynamic multi-tenant customization, integrating thermal receipt printing systems, and creating authentication flows that adapt to different client configurations. I'm working extensively with internationalization, supporting French, English, and Arabic with proper RTL layouts, building applications that truly serve a global audience.
+At Tandeem, I'm leading the development of sophisticated mobile solutions that involve fascinating technical challenges like implementing dynamic multi-tenant customization, creating flexible authentication flows that adapt to different client configurations, and building systems that seamlessly integrate with various backend services. I'm working extensively with internationalization, supporting French, English, and Arabic with proper RTL layouts, building applications that truly serve a global audience.
 
 My work requires juggling multiple database technologies depending on the use case. I use Hive for efficient local storage in Flutter apps when I need lightning-fast access to structured data without network overhead. SQLite powers offline-first capabilities in mobile applications where users need to work regardless of connectivity. For backend systems, I work with MySQL for traditional relational data and have experience with Oracle databases in enterprise environments. I've also adopted Supabase as a modern alternative to Firebase, appreciating its PostgreSQL foundation and real-time capabilities.
 
