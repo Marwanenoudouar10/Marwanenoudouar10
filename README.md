@@ -1,4 +1,4 @@
-# Marwane Noudouar
+# Marwane Boudouar
 
 Flutter developer based in Casablanca, Morocco. I build multi-tenant mobile products at Tandeem, an employee benefits platform, and work across the stack: Flutter clients, Python and Java backends, and the databases and APIs in between.
 
@@ -64,5 +64,5 @@ Docker and container orchestration, advanced Flutter state management and depend
 
 Open to discussing Flutter architecture, AI integration in mobile apps, or database design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwaneboudouar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwaneboudouar@gmail.com)
