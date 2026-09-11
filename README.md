@@ -1,6 +1,6 @@
 # Marwane Boudouar
 
-Flutter developer based in Casablanca, Morocco. I build multi-tenant mobile products at Tandeem, an employee benefits platform, and work across the stack: Flutter clients, Python and Java backends, and the databases and APIs in between.
+Developer based in Casablanca, Morocco. I build multi-tenant solutions at Tandeem, an employee benefits platform.
 
 ## Tech stack
 
