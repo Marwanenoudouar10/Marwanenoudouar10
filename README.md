@@ -38,7 +38,7 @@ Flutter developer based in Casablanca, Morocco. I build multi-tenant mobile prod
 
 ## What I work on
 
-**Multi-tenant mobile at Tandeem.** One Flutter codebase serving multiple clients, with per-tenant theming, configuration-driven authentication flows, and localization in French, English and Arabic including RTL layouts.
+**Multi-tenant mobile.** One Flutter codebase serving multiple clients, with per-tenant theming, configuration-driven authentication flows, and localization in French, English and Arabic including RTL layouts.
 
 **Offline-first storage.** Hive and SQLite on device, syncing against MySQL and Oracle backends. Clean architecture with presentation, domain and data layers kept separate.
 
