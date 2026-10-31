@@ -2,33 +2,39 @@
 
 # Marwane Boudouar
 
-**Full-Stack & Mobile Engineer** · 4+ years · Morocco, working remotely (overlaps European hours)
+**Full-Stack & Mobile Engineer** · 4+ years · Morocco
 
-I build mobile apps, web platforms and the pipelines that ship them. For an employee-benefits platform live in Morocco, I build the Flutter app, the Next.js API, the AI HR assistant and the CI/CD behind them.
+I build complete products end to end: mobile apps, web platforms, AI features and the infrastructure that runs them, from the first screen to production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwaneboudouar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwaneboudouar@gmail.com)
 
 <br clear="right" />
 
-## What I've shipped
+## What I can do
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **Employee benefits app** (iOS + Android) | Flutter, Dart, Firebase, Shorebird, Kotlin, Swift | Two branded apps from one codebase · French, English and Arabic with right-to-left layouts · over-the-air fixes · device attestation · ~1,500 automated tests · 5.0 rating on both stores |
-| **Multi-tenant platform API & back office** | Next.js, TypeScript, Prisma, PostgreSQL | 390 API routes · 75 data models · default-deny route policy checked in CI · deterministic housing-assignment engine · transactional outbox for push notifications |
-| **AI HR assistant (RAG)** | Python, FastAPI, BGE-M3, FAISS, Claude / Gemini | Answers only from each company's own documents · grounding guard against made-up answers · 68-case hallucination eval required before every merge · French and Moroccan Darija |
-| **CI/CD & infrastructure** | Jenkins, GitHub Actions, Docker, nginx, Grafana | 12-stage pipeline with secret, code, dependency, image and attack scans · human approval gate · database backup before every migration · automatic rollback |
+### Mobile development
+- Cross-platform iOS and Android apps in Flutter, with clean architecture (MVVM, use cases, dependency injection)
+- Several branded apps from one codebase, and multilingual interfaces including Arabic right-to-left
+- Native features in Kotlin and Swift: push notifications, maps, QR scanning, device security checks
+- Over-the-air updates and releases on the App Store and Google Play
 
-The code above is private client work.
+### Web and backend
+- Web apps and admin back offices with Next.js, React and TypeScript
+- APIs in Node.js and Python (FastAPI) on PostgreSQL with Prisma
+- Multi-tenant platforms, role-based access, secure authentication, booking and scheduling logic
+- Automated testing at every level: unit, end-to-end, mutation and performance tests
 
-## Open source
+### AI integration
+- Assistants that answer from an organisation's own documents (RAG) with hybrid search
+- Guardrails against made-up answers, and evaluation suites that measure answer quality
+- Claude and Gemini integration, in French, English and Moroccan Darija
 
-- **[mockup-studio](https://github.com/Marwanenoudouar10/mockup-studio)**: a Claude Code skill that produces App Store and Google Play screenshot sets, feature graphics, social images and brand boards, with a local Figma-like editor.
-- **[motion-explainer](https://github.com/Marwanenoudouar10/motion-explainer)**: a Claude Code skill for narrated motion-graphics explainer videos, rendered with Remotion.
-- **[one-cell-to-birth](https://github.com/Marwanenoudouar10/one-cell-to-birth)**: a 16-chapter vertical explainer film made with motion-explainer.
-- **[lifeOS](https://github.com/Marwanenoudouar10/lifeOS)**: a life and task manager. React, Express, Prisma and PostgreSQL, about 70 API endpoints.
-- **[arena-shooter](https://github.com/Marwanenoudouar10/arena-shooter)**: a Godot 4 arena shooter and aim trainer.
+### DevOps and security
+- CI/CD pipelines with Jenkins and GitHub Actions, Docker and nginx
+- Security scans built into every pipeline: secrets, code, dependencies, images and live attack tests
+- Safe deployments: approval gates, database backups before migrations, health checks and automatic rollback
+- Monitoring and alerting with Grafana
 
 ## Stack
 
