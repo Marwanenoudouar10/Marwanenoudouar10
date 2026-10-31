@@ -44,7 +44,3 @@ The code above is private client work.
   <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
   <img height="165" src="./assets/languages.svg" alt="Most used languages" />
 </p>
-
-## Work with me
-
-Open to freelance projects: mobile apps, web platforms, AI features you can trust, and CI/CD that deploys without surprises. Email me with a short description of what you need to ship.
