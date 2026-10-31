@@ -1,5 +1,3 @@
-<img src="./assets/marwane.jpg" width="150" align="right" alt="Marwane Boudouar" />
-
 # Marwane Boudouar
 
 **Full-Stack & Mobile Engineer** · 4+ years · Morocco
@@ -9,7 +7,6 @@ I build complete products end to end: mobile apps, web platforms, AI features an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwaneboudouar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwaneboudouar@gmail.com)
 
-<br clear="right" />
 
 ## What I can do
 
