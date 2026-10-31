@@ -25,7 +25,7 @@ I build complete products end to end: mobile apps, web platforms, AI features an
 ### AI integration
 - Assistants that answer from an organisation's own documents (RAG) with hybrid search
 - Guardrails against made-up answers, and evaluation suites that measure answer quality
-- Claude and Gemini integration, in French, English and Moroccan Darija
+- Large language model integration, in French, English and Moroccan Darija
 
 ### DevOps and security
 - CI/CD pipelines with Jenkins and GitHub Actions, Docker and nginx
