@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="170" viewBox="0 0 467 170" role="img" aria-label="GitHub stats for Marwane Boudouar">
+  <rect width="467" height="170" rx="6" fill="#1a1b27" />
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Marwane Boudouar's GitHub Stats</text>
+  <g transform="translate(25, 62)">
+    <circle cx="5" cy="-4" r="4" fill="#bf91f3" />
+    <text x="20" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="600" fill="#38bdae">Contributions in the last year:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#38bdae">644</text>
+  </g>
+  <g transform="translate(25, 84)">
+    <circle cx="5" cy="-4" r="4" fill="#bf91f3" />
+    <text x="20" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="600" fill="#38bdae">Private contributions (last year):</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#38bdae">588</text>
+  </g>
+  <g transform="translate(25, 106)">
+    <circle cx="5" cy="-4" r="4" fill="#bf91f3" />
+    <text x="20" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="600" fill="#38bdae">Public repositories:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#38bdae">7</text>
+  </g>
+  <g transform="translate(25, 128)">
+    <circle cx="5" cy="-4" r="4" fill="#bf91f3" />
+    <text x="20" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="600" fill="#38bdae">Stars earned:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#38bdae">7</text>
+  </g>
+  <g transform="translate(25, 150)">
+    <circle cx="5" cy="-4" r="4" fill="#bf91f3" />
+    <text x="20" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="600" fill="#38bdae">Followers:</text>
+    <text x="300" y="0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="14" font-weight="700" fill="#38bdae">12</text>
+  </g>
+</svg>

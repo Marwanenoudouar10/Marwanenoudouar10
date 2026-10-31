@@ -41,8 +41,8 @@ The code above is private client work.
 ## GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marwanenoudouar10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwanenoudouar10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/languages.svg" alt="Most used languages" />
 </p>
 
 ## Work with me
